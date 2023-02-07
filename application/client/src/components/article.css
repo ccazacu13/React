@@ -1,0 +1,16 @@
+p{
+    background-color: rgb(82, 72, 72);  
+    width: 95%;
+    line-height: 120%;
+    padding: 5px;
+    border-radius: 5px;
+    border: 1px rgb(8, 106, 158) solid;
+}
+
+.id{
+    font-weight: bold;
+}
+
+.undisplayed{
+    visibility:hidden;
+}
